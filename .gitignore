@@ -26,3 +26,10 @@ hs_err_pid*
 /target/**/*.properties
 /target/**/.gitignore
 /target/**/*.*
+/target/
+
+
+# Eclipse environment
+*.project
+*.classpath
+*.settings/
